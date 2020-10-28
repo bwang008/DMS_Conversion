@@ -1,0 +1,4 @@
+DeviceName,ShuntGroupName,PhaseCode,ConnectedNode1,NormalCount,OptControl,FeederVoltageControlEnabled,MinimumRegulatorVoltage,MaximumRegulatorVoltage,KvarRating,ShuntTypeName,ServiceScheduleName,SubstationName,FeederName,AORRefName
+YORBA LIN CAP 2:2600,DMS,ABC,en_3308600_SH,1,N,NULL,NULL,NULL,4800,12.0KV_4800,Fall-InSvcSchedule,YORBA_LINDA,NULL,All
+YORBA LIN CAP 3:2601,DMS,ABC,en_3308601_SH,1,N,NULL,NULL,NULL,4800,12.0KV_4800,Fall-InSvcSchedule,YORBA_LINDA,NULL,All
+YORBA LIN CAP 4:2602,DMS,ABC,en_3308602_SH,1,N,NULL,NULL,NULL,4800,12.0KV_4800,Fall-InSvcSchedule,YORBA_LINDA,NULL,All

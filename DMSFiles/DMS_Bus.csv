@@ -1,0 +1,3 @@
+DeviceName,BusGroupName,PhaseCode,ConnectedNode1,LGFaultEnabled,ThreePhFaultEnabled,FLAEnabled,OperatingVoltage,SubstationName,FeederName,AORRefName
+YORBA LIN 12:3308053,EMS,ABC,en_3308053,N,N,N,12.0kV_EMS,YORBA_LINDA,NULL,Z_EMS
+YORBA LIN 12:3308063,EMS,ABC,en_3308063,N,N,N,12.0kV_EMS,YORBA_LINDA,NULL,Z_EMS

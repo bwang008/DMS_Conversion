@@ -1,0 +1,2 @@
+DeviceName,SeriesGroupName,PhaseCode,ConnectedNode1,ConnectedNode2,SeriesTypeName,DeviceLimitName,SubstationName,FeederName,AORRefName
+YORBA LIN BK 2:SERIES,DMS,ABC,en_3308704_S,en_3308704,SRD_12.0KV_EMS,DMSLimitGrp1,YORBA_LINDA,NULL,All

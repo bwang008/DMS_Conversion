@@ -1,0 +1,63 @@
+pointnumber 218469
+aor 55 - santiago
+accessassignment = 69
+accessarea = 63
+pointnumber = 4045
+
+
+
+select pointname, pointnumber from analogpoint where pointaccessarea in
+(select aor from aor where accessareaassignment in
+(select setnumber from accessareaassignment where accessarea in
+(select accessarea from accessarea where pointnumber in
+(select pointnumber from statuspoint where pointaccessarea in
+(select aor from aor where accesszoneassignment = 11)))))
+and
+unitname in 
+(select entrynumber from unitname where unitname in ('MW','MV','MVAR','AMPS','VOLT','VOLTS'))
+;
+
+select pointname, pointnumber from statuspoint where pointaccessarea in
+(select aor from aor where accessareaassignment in
+(select setnumber from accessareaassignment where accessarea in
+(select accessarea from accessarea where pointnumber in
+(select pointnumber from statuspoint where pointaccessarea in
+(select aor from aor where accesszoneassignment = 11)))))
+and
+
+;
+
+
+
+
+
+
+
+======================
+Retrieve station names:
+
+select distinct stationname from scadastation where stationnumber in
+(select station from analogpoint where pointaccessarea in
+(select aor from aor where accessareaassignment in
+(select setnumber from accessareaassignment where accessarea in
+(select accessarea from accessarea where pointnumber in
+(select pointnumber from statuspoint where pointaccessarea in
+(select aor from aor where accesszoneassignment = 11)))))
+and
+unitname in 
+(select entrynumber from unitname where unitname in ('MW','MV','MVAR','AMPS','VOLT','VOLTS')))
+;
+
+
+
+StationName
+CAMDEN
+CHESTNUT
+JOHANNA
+MACARTHUR
+CABRILLO
+CROWN
+FAIRVIEW
+JERSEY
+SAN MIGUEL
+
