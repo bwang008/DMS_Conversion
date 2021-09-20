@@ -1,0 +1,26 @@
+Compressing Lines
+ 2.49 
+Entering switch
+ 45.4 
+Entering shunt
+ 12.27 
+Entering series
+ 6.33 
+Entering bus
+ 7.08 
+Entering transformer
+Parallel Transformer
+Parallel Transformer
+Parallel Transformer
+ 10.53 
+Completed all routines
+
+
+
+
+
+
+Changing the switch name to SCADA TP
+Entering switch build routine
+Time: 72.16602
+

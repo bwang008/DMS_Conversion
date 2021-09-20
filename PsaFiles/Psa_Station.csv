@@ -1,2 +1,2 @@
-PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,DistrictNumberRef,
-75,YORBA_LINDA,Yes,Yes,NULL,Inside,Yes,5,
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef
+368,CAJALCO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8086,45

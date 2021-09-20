@@ -1,4 +1,2 @@
 TransformerTypeName,AutoTransformer,RealCoreLoss,ReactiveCoreLoss,PrimaryWinding,SecondaryWinding,PrimaryMaximumTap,PrimaryMinimumTap,SecondaryMaximumTap,SecondaryMinimumTap,PrimaryTapIncrement,SecondaryTapIncrement,PrimaryNominalTap,SecondaryNominalTap,KVARating,ResistiveLeakage,ReactiveLeakage,PrimaryVoltageLevelName,SecondaryVoltageLevelName
-YORBA LIN BK 1N:TYPE,N,0.0001,0.0001,DEL,YGD,16,-16,16,-16,0.625,0.625,0,0,100000,0.0005,0.4567,69.0kV_EMS,12.0kV_EMS
-YORBA LIN BK 2:TYPE,N,0.0001,0.0001,DEL,YGD,16,-16,16,-16,0.625,0.625,0,0,100000,0.0005,0.478,69.0kV_EMS,12.0kV_EMS
-YORBA LIN BK 1S:TYPE,N,0.0001,0.0001,DEL,YGD,16,-16,16,-16,0.625,0.625,0,0,100000,0.0005,0.4753,69.0kV_EMS,12.0kV_EMS
+CAJALCO NO.1N BANK:TYPE,N,0.0001,0.0001,DEL,YGD,16,-16,16,-16,0.625,0.625,0,0,100000,0.0005,0.4667,115.0kV_EMS,12.0kV_EMS

@@ -1,0 +1,218 @@
+VBEGIN StatusPoint, INSERT
+!PointNumber!3462!
+!PointName!KUNA GRD RLY!
+!LogicalDisplayReference!santiago!
+!PropagateInitialValue!No!
+!SetNonUpdate!Yes!
+!ManualOverride!No!
+!ManualEntry!Yes!
+!Events!Yes!
+!AnalogDemandScan!No!
+!StateCalculator!1!
+!AssetID!NULL!
+!PICollection!NULL!
+!PIValueTag!NULL!
+!PIQualityStorage!NULL!
+!PIQualityTag!NULL!
+!ToggleReleaseThreshold!NULL!
+!ToggleInhibitThreshold!NULL!
+!eDNACollection!Yes!
+!eDNAExtIdentifier!NULL!
+!eDNAQualityStorage!XA21 Quality!
+!eDNASecurityGroup!NULL!
+!PI_Digital_Set_Number!NULL!
+!DOMDeviceType!NULL!
+!TimeBasedAlarmDelay!NULL!
+!ProficyCollection!NULL!
+!ProficyTagName!NULL!
+!ProficyQualityStorage!NULL!
+!TransientStateDelay!NULL!
+!COBECollection!NULL!
+!InterrogationResponse!NULL!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!URLtype!NULL!
+	}
+	{
+	!URLDescription!NULL!
+	}
+	{
+	!URL!NULL!
+	}
+VREPEND
+!InitialValue!AUTO!
+!LogRoutAssnRefName!All!
+!StationName!SANTIAGO SAS!
+!GroupName!NULL!
+!MapboardFunctionGroup!NULL!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!StateFeatGroupAssnStateNumber!1!2!
+	}
+	{
+	!AbnormalSetting!Yes!No!
+	}
+VREPEND
+!TriggerRefName!NULL!
+!DataDivisionRefName!LIG DAC3 Telem!
+!VoltageBase!NULL!
+!AORRefName!ALL-SANTIAGO!
+!MenuRefNumber!NULL!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!AltDataSourcePriority!NULL!
+	}
+	{
+	!AltDataSourceIdentifier!NULL!
+	}
+VREPEND
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!UtilizationIdentifier!NULL!
+	}
+VREPEND
+!AltDataSourceInitiation!NULL!
+!AltDataSourceRestoration!NULL!
+!ControlProgramRefName!SVCD!
+!ControlStateGroupSet!506!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!PointPosition!300!
+	}
+	{
+	!StartControlState!1!
+	}
+	{
+	!LayoutType!Dnp!
+	}
+	{
+	!LayoutNumber!462!
+	}
+VREPEND
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!StateControlAssnStateNumber!1!2!
+	}
+	{
+	!JogPoint!No!No!
+	}
+	{
+	!Command!0!1!
+	}
+	{
+	!PulseDuration!NULL!NULL!
+	}
+	{
+	!OperateTime!15!15!
+	}
+	{
+	!DesiredEndState!1!2!
+	}
+	{
+	!Priority!70!70!
+	}
+	{
+	!RetryLimit!1!1!
+	}
+	{
+	!TripCloseControlCode!NULL!NULL!
+	}
+	{
+	!AllowedControlState!NULL!NULL!
+	}
+	{
+	!CntlValidationProgRefName!NULL!NULL!
+	}
+	{
+	!ValidationVersionNum!NULL!NULL!
+	}
+VREPEND
+!IndicationStateGroupSet!506!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!IndicationPointPosition!773!
+	}
+	{
+	!IndicationBitPosition!0!
+	}
+	{
+	!IndicationLayoutType!Dnp!
+	}
+	{
+	!IndicationLayoutNumber!463!
+	}
+	{
+	!ScanBlockRefName!Dnp 4 sec status!
+	}
+VREPEND
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetEntryNumber!NULL!
+	}
+	{
+	!AssocDevicePointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+VREPEND
+!WarningRequired!NULL!
+!WarningAckRequired!NULL!
+!WarningMessage!NULL!
+!CollectToHistoricalSchedRef!NULL!
+!ActionDescriptionSetRef!NULL!
+!CircuitLabelName!NULL!
+!SubstationName!NULL!
+!DeviceTypeName!NULL!
+!LongName!NULL!
+!AltLongName!NULL!
+!Input_Group_Name!NULL!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!DOG_Reference!1!2!3!
+	}
+	{
+	!AlarmProfileReference!Class 3!Class 16!Class 3!
+	}
+VREPEND
+!OPCTagName!NULL!
+!EPDC_Signal_Reference!NULL!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SlavePointPosition!NULL!
+	}
+	{
+	!SlaveBitPosition!NULL!
+	}
+	{
+	!SlaveLayoutType!NULL!
+	}
+	{
+	!SlaveLayoutNumber!NULL!
+	}
+VREPEND
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SlaveControlPointPosition!NULL!
+	}
+	{
+	!SlaveStartControlState!NULL!
+	}
+	{
+	!SlaveControlLayoutType!NULL!
+	}
+	{
+	!SlaveControlLayoutNumber!NULL!
+	}
+VREPEND

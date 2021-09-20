@@ -1,0 +1,30186 @@
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536003!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!112890!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536013!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!124853!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536015!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!112902!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536999!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!112912!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536997!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!112916!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536999!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!1135!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536998!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!1148!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 12_1536999!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!1147!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 33_1573011!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!64870!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO 33_1573031!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!64880!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DEVERS 12_4129004!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!207894!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DEVERS 12_4129999!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!207912!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DEVERS 12_4129010!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!222970!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DEVERS 12_4129997!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!BUS!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!
+	}
+	{
+	!ComponentAlias!VOLT!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!VOLT!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!
+	}
+	{
+	!AnalogPointNumber!222977!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!AssetID!
+!GroupName!EMS!
+!Description!Description!
+!SerialNumber!SerialNumber!
+!Device_RDF_ID!Device_RDF_ID!
+!CRAS_UAP_NodeType!CRAS_UAP_NodeType!
+!VendorTypeName!VendorTypeName!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!SetOrder!
+	}
+	{
+	!ComponentAlias!ComponentAlias!
+	}
+	{
+	!PhaseCode!PhaseCode!
+	}
+	{
+	!Attachment!Attachment!
+	}
+	{
+	!Propagate_Non_Point_Value!Propagate_Non_Point_Value!
+	}
+	{
+	!Real_Initial_Value!Real_Initial_Value!
+	}
+	{
+	!Integer_Initial_Value!Integer_Initial_Value!
+	}
+	{
+	!Component_RDF_ID!Component_RDF_ID!
+	}
+	{
+	!ControllerSide!ControllerSide!
+	}
+	{
+	!ControlAttributeName!ControlAttributeName!
+	}
+	{
+	!OverrideTabNumber!OverrideTabNumber!
+	}
+	{
+	!OverrideTabRow!OverrideTabRow!
+	}
+	{
+	!OverrideTabColumn!OverrideTabColumn!
+	}
+	{
+	!AssociationDirection!AssociationDirection!
+	}
+	{
+	!ComponentTypeName!ComponentTypeName!
+	}
+	{
+	!VendorCompTypeName!VendorCompTypeName!
+	}
+	{
+	!StringValue!StringValue!
+	}
+	{
+	!SubDeviceAssetID!SubDeviceAssetID!
+	}
+	{
+	!DeviceCompTypeName!DeviceCompTypeName!
+	}
+	{
+	!StatusPointNumber!StatusPointNumber!
+	}
+	{
+	!AnalogPointNumber!AnalogPointNumber!
+	}
+	{
+	!AccumPointNumber!AccumPointNumber!
+	}
+	{
+	!RaiseLwPointNumber!RaiseLwPointNumber!
+	}
+	{
+	!CmePointNumber!CmePointNumber!
+	}
+VREPEND
+!StationNameRef!StationNameRef!
+!AccessZone!AccessZone!
+!AccessArea!AccessArea!
+!GroupNamePrimary!GroupNamePrimary!
+!GroupNameSecondary!GroupNameSecondary!
+!AORName!AORName!
+!DCT_Point!DCT_Point!
+!ParentDevice!ParentDevice!
+!ChildDeviceModelType!ChildDeviceModelType!
+!DeviceName!DeviceName!
+!StructureName!StructureName!
+!LanAddress!LanAddress!
+!WanAddress!WanAddress!
+!OmsStructureNumber!OmsStructureNumber!
+!OmsLineDeviceNumber!OmsLineDeviceNumber!
+!DcwId!DcwId!
+!DeviceAttribute!DeviceAttribute!
+!LatLong!LatLong!
+!ScanFrequency!ScanFrequency!
+!HealthCheckFrequency!HealthCheckFrequency!
+!HealthCheckRetry!HealthCheckRetry!
+!TimeToLive!TimeToLive!
+!Luck!Luck!
+!Mood!Mood!
+!Priority!Priority!
+!ReturnReceipt!ReturnReceipt!
+!MaxSendAttempts!MaxSendAttempts!
+!LoadDropDevice!LoadDropDevice!
+!PrimaryMcc!PrimaryMcc!
+!SecondaryMcc!SecondaryMcc!
+!TertiaryMcc!TertiaryMcc!
+!TestPointNumber!TestPointNumber!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO BK 7_9!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SERIES!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!401!
+	}
+	{
+	!ComponentAlias!POWER_P!POWER_Q!
+	}
+	{
+	!PhaseCode!ABC!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!POWER_P!POWER_Q!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!124850!124851!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO BK 5_104!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SERIES!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!401!
+	}
+	{
+	!ComponentAlias!POWER_P!POWER_Q!
+	}
+	{
+	!PhaseCode!ABC!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!POWER_P!POWER_Q!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!112887!112888!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SANTIAGO BK 8_106!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SERIES!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!401!
+	}
+	{
+	!ComponentAlias!POWER_P!POWER_Q!
+	}
+	{
+	!PhaseCode!ABC!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!POWER_P!POWER_Q!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!112899!112900!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!AssetID!
+!GroupName!EMS!
+!Description!Description!
+!SerialNumber!SerialNumber!
+!Device_RDF_ID!Device_RDF_ID!
+!CRAS_UAP_NodeType!CRAS_UAP_NodeType!
+!VendorTypeName!VendorTypeName!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!SetOrder!
+	}
+	{
+	!ComponentAlias!ComponentAlias!
+	}
+	{
+	!PhaseCode!PhaseCode!
+	}
+	{
+	!Attachment!Attachment!
+	}
+	{
+	!Propagate_Non_Point_Value!Propagate_Non_Point_Value!
+	}
+	{
+	!Real_Initial_Value!Real_Initial_Value!
+	}
+	{
+	!Integer_Initial_Value!Integer_Initial_Value!
+	}
+	{
+	!Component_RDF_ID!Component_RDF_ID!
+	}
+	{
+	!ControllerSide!ControllerSide!
+	}
+	{
+	!ControlAttributeName!ControlAttributeName!
+	}
+	{
+	!OverrideTabNumber!OverrideTabNumber!
+	}
+	{
+	!OverrideTabRow!OverrideTabRow!
+	}
+	{
+	!OverrideTabColumn!OverrideTabColumn!
+	}
+	{
+	!AssociationDirection!AssociationDirection!
+	}
+	{
+	!ComponentTypeName!ComponentTypeName!
+	}
+	{
+	!VendorCompTypeName!VendorCompTypeName!
+	}
+	{
+	!StringValue!StringValue!
+	}
+	{
+	!SubDeviceAssetID!SubDeviceAssetID!
+	}
+	{
+	!DeviceCompTypeName!DeviceCompTypeName!
+	}
+	{
+	!StatusPointNumber!StatusPointNumber!
+	}
+	{
+	!AnalogPointNumber!AnalogPointNumber!
+	}
+	{
+	!AccumPointNumber!AccumPointNumber!
+	}
+	{
+	!RaiseLwPointNumber!RaiseLwPointNumber!
+	}
+	{
+	!CmePointNumber!CmePointNumber!
+	}
+VREPEND
+!StationNameRef!StationNameRef!
+!AccessZone!AccessZone!
+!AccessArea!AccessArea!
+!GroupNamePrimary!GroupNamePrimary!
+!GroupNameSecondary!GroupNameSecondary!
+!AORName!AORName!
+!DCT_Point!DCT_Point!
+!ParentDevice!ParentDevice!
+!ChildDeviceModelType!ChildDeviceModelType!
+!DeviceName!DeviceName!
+!StructureName!StructureName!
+!LanAddress!LanAddress!
+!WanAddress!WanAddress!
+!OmsStructureNumber!OmsStructureNumber!
+!OmsLineDeviceNumber!OmsLineDeviceNumber!
+!DcwId!DcwId!
+!DeviceAttribute!DeviceAttribute!
+!LatLong!LatLong!
+!ScanFrequency!ScanFrequency!
+!HealthCheckFrequency!HealthCheckFrequency!
+!HealthCheckRetry!HealthCheckRetry!
+!TimeToLive!TimeToLive!
+!Luck!Luck!
+!Mood!Mood!
+!Priority!Priority!
+!ReturnReceipt!ReturnReceipt!
+!MaxSendAttempts!MaxSendAttempts!
+!LoadDropDevice!LoadDropDevice!
+!PrimaryMcc!PrimaryMcc!
+!SecondaryMcc!SecondaryMcc!
+!TertiaryMcc!TertiaryMcc!
+!TestPointNumber!TestPointNumber!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TEAM BK 1:SERIES!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!en_999001_S!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SERIES!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!127034!127035!127030!127031!127032!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_TEAM!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!AssetID!
+!GroupName!EMS!
+!Description!Description!
+!SerialNumber!SerialNumber!
+!Device_RDF_ID!Device_RDF_ID!
+!CRAS_UAP_NodeType!CRAS_UAP_NodeType!
+!VendorTypeName!VendorTypeName!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!SetOrder!
+	}
+	{
+	!ComponentAlias!ComponentAlias!
+	}
+	{
+	!PhaseCode!PhaseCode!
+	}
+	{
+	!Attachment!Attachment!
+	}
+	{
+	!Propagate_Non_Point_Value!Propagate_Non_Point_Value!
+	}
+	{
+	!Real_Initial_Value!Real_Initial_Value!
+	}
+	{
+	!Integer_Initial_Value!Integer_Initial_Value!
+	}
+	{
+	!Component_RDF_ID!Component_RDF_ID!
+	}
+	{
+	!ControllerSide!ControllerSide!
+	}
+	{
+	!ControlAttributeName!ControlAttributeName!
+	}
+	{
+	!OverrideTabNumber!OverrideTabNumber!
+	}
+	{
+	!OverrideTabRow!OverrideTabRow!
+	}
+	{
+	!OverrideTabColumn!OverrideTabColumn!
+	}
+	{
+	!AssociationDirection!AssociationDirection!
+	}
+	{
+	!ComponentTypeName!ComponentTypeName!
+	}
+	{
+	!VendorCompTypeName!VendorCompTypeName!
+	}
+	{
+	!StringValue!StringValue!
+	}
+	{
+	!SubDeviceAssetID!SubDeviceAssetID!
+	}
+	{
+	!DeviceCompTypeName!DeviceCompTypeName!
+	}
+	{
+	!StatusPointNumber!StatusPointNumber!
+	}
+	{
+	!AnalogPointNumber!AnalogPointNumber!
+	}
+	{
+	!AccumPointNumber!AccumPointNumber!
+	}
+	{
+	!RaiseLwPointNumber!RaiseLwPointNumber!
+	}
+	{
+	!CmePointNumber!CmePointNumber!
+	}
+VREPEND
+!StationNameRef!StationNameRef!
+!AccessZone!AccessZone!
+!AccessArea!AccessArea!
+!GroupNamePrimary!GroupNamePrimary!
+!GroupNameSecondary!GroupNameSecondary!
+!AORName!AORName!
+!DCT_Point!DCT_Point!
+!ParentDevice!ParentDevice!
+!ChildDeviceModelType!ChildDeviceModelType!
+!DeviceName!DeviceName!
+!StructureName!StructureName!
+!LanAddress!LanAddress!
+!WanAddress!WanAddress!
+!OmsStructureNumber!OmsStructureNumber!
+!OmsLineDeviceNumber!OmsLineDeviceNumber!
+!DcwId!DcwId!
+!DeviceAttribute!DeviceAttribute!
+!LatLong!LatLong!
+!ScanFrequency!ScanFrequency!
+!HealthCheckFrequency!HealthCheckFrequency!
+!HealthCheckRetry!HealthCheckRetry!
+!TimeToLive!TimeToLive!
+!Luck!Luck!
+!Mood!Mood!
+!Priority!Priority!
+!ReturnReceipt!ReturnReceipt!
+!MaxSendAttempts!MaxSendAttempts!
+!LoadDropDevice!LoadDropDevice!
+!PrimaryMcc!PrimaryMcc!
+!SecondaryMcc!SecondaryMcc!
+!TertiaryMcc!TertiaryMcc!
+!TestPointNumber!TestPointNumber!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO 1 CAPS CB:952!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!129750!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z0CROWN SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!AssetID!
+!GroupName!EMS!
+!Description!Description!
+!SerialNumber!SerialNumber!
+!Device_RDF_ID!Device_RDF_ID!
+!CRAS_UAP_NodeType!CRAS_UAP_NodeType!
+!VendorTypeName!VendorTypeName!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!SetOrder!
+	}
+	{
+	!ComponentAlias!ComponentAlias!
+	}
+	{
+	!PhaseCode!PhaseCode!
+	}
+	{
+	!Attachment!Attachment!
+	}
+	{
+	!Propagate_Non_Point_Value!Propagate_Non_Point_Value!
+	}
+	{
+	!Real_Initial_Value!Real_Initial_Value!
+	}
+	{
+	!Integer_Initial_Value!Integer_Initial_Value!
+	}
+	{
+	!Component_RDF_ID!Component_RDF_ID!
+	}
+	{
+	!ControllerSide!ControllerSide!
+	}
+	{
+	!ControlAttributeName!ControlAttributeName!
+	}
+	{
+	!OverrideTabNumber!OverrideTabNumber!
+	}
+	{
+	!OverrideTabRow!OverrideTabRow!
+	}
+	{
+	!OverrideTabColumn!OverrideTabColumn!
+	}
+	{
+	!AssociationDirection!AssociationDirection!
+	}
+	{
+	!ComponentTypeName!ComponentTypeName!
+	}
+	{
+	!VendorCompTypeName!VendorCompTypeName!
+	}
+	{
+	!StringValue!StringValue!
+	}
+	{
+	!SubDeviceAssetID!SubDeviceAssetID!
+	}
+	{
+	!DeviceCompTypeName!DeviceCompTypeName!
+	}
+	{
+	!StatusPointNumber!StatusPointNumber!
+	}
+	{
+	!AnalogPointNumber!AnalogPointNumber!
+	}
+	{
+	!AccumPointNumber!AccumPointNumber!
+	}
+	{
+	!RaiseLwPointNumber!RaiseLwPointNumber!
+	}
+	{
+	!CmePointNumber!CmePointNumber!
+	}
+VREPEND
+!StationNameRef!StationNameRef!
+!AccessZone!AccessZone!
+!AccessArea!AccessArea!
+!GroupNamePrimary!GroupNamePrimary!
+!GroupNameSecondary!GroupNameSecondary!
+!AORName!AORName!
+!DCT_Point!DCT_Point!
+!ParentDevice!ParentDevice!
+!ChildDeviceModelType!ChildDeviceModelType!
+!DeviceName!DeviceName!
+!StructureName!StructureName!
+!LanAddress!LanAddress!
+!WanAddress!WanAddress!
+!OmsStructureNumber!OmsStructureNumber!
+!OmsLineDeviceNumber!OmsLineDeviceNumber!
+!DcwId!DcwId!
+!DeviceAttribute!DeviceAttribute!
+!LatLong!LatLong!
+!ScanFrequency!ScanFrequency!
+!HealthCheckFrequency!HealthCheckFrequency!
+!HealthCheckRetry!HealthCheckRetry!
+!TimeToLive!TimeToLive!
+!Luck!Luck!
+!Mood!Mood!
+!Priority!Priority!
+!ReturnReceipt!ReturnReceipt!
+!MaxSendAttempts!MaxSendAttempts!
+!LoadDropDevice!LoadDropDevice!
+!PrimaryMcc!PrimaryMcc!
+!SecondaryMcc!SecondaryMcc!
+!TertiaryMcc!TertiaryMcc!
+!TestPointNumber!TestPointNumber!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8 CAPS SW_422!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3456!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.2 CAPS SW_1044!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!133339!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.4 CAPS SW_1045!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!133347!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 CAPS SW_1046!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190379!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 CAPS SW_1047!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190387!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 CAPS SW_1647!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!43513!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 CAPS SW_1648!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!283239!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.10 CAPS CB_1806!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!191017!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.11 CAPS CB_1807!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!191026!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!AssetID!
+!GroupName!EMS!
+!Description!Description!
+!SerialNumber!SerialNumber!
+!Device_RDF_ID!Device_RDF_ID!
+!CRAS_UAP_NodeType!CRAS_UAP_NodeType!
+!VendorTypeName!VendorTypeName!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!SetOrder!
+	}
+	{
+	!ComponentAlias!ComponentAlias!
+	}
+	{
+	!PhaseCode!PhaseCode!
+	}
+	{
+	!Attachment!Attachment!
+	}
+	{
+	!Propagate_Non_Point_Value!Propagate_Non_Point_Value!
+	}
+	{
+	!Real_Initial_Value!Real_Initial_Value!
+	}
+	{
+	!Integer_Initial_Value!Integer_Initial_Value!
+	}
+	{
+	!Component_RDF_ID!Component_RDF_ID!
+	}
+	{
+	!ControllerSide!ControllerSide!
+	}
+	{
+	!ControlAttributeName!ControlAttributeName!
+	}
+	{
+	!OverrideTabNumber!OverrideTabNumber!
+	}
+	{
+	!OverrideTabRow!OverrideTabRow!
+	}
+	{
+	!OverrideTabColumn!OverrideTabColumn!
+	}
+	{
+	!AssociationDirection!AssociationDirection!
+	}
+	{
+	!ComponentTypeName!ComponentTypeName!
+	}
+	{
+	!VendorCompTypeName!VendorCompTypeName!
+	}
+	{
+	!StringValue!StringValue!
+	}
+	{
+	!SubDeviceAssetID!SubDeviceAssetID!
+	}
+	{
+	!DeviceCompTypeName!DeviceCompTypeName!
+	}
+	{
+	!StatusPointNumber!StatusPointNumber!
+	}
+	{
+	!AnalogPointNumber!AnalogPointNumber!
+	}
+	{
+	!AccumPointNumber!AccumPointNumber!
+	}
+	{
+	!RaiseLwPointNumber!RaiseLwPointNumber!
+	}
+	{
+	!CmePointNumber!CmePointNumber!
+	}
+VREPEND
+!StationNameRef!StationNameRef!
+!AccessZone!AccessZone!
+!AccessArea!AccessArea!
+!GroupNamePrimary!GroupNamePrimary!
+!GroupNameSecondary!GroupNameSecondary!
+!AORName!AORName!
+!DCT_Point!DCT_Point!
+!ParentDevice!ParentDevice!
+!ChildDeviceModelType!ChildDeviceModelType!
+!DeviceName!DeviceName!
+!StructureName!StructureName!
+!LanAddress!LanAddress!
+!WanAddress!WanAddress!
+!OmsStructureNumber!OmsStructureNumber!
+!OmsLineDeviceNumber!OmsLineDeviceNumber!
+!DcwId!DcwId!
+!DeviceAttribute!DeviceAttribute!
+!LatLong!LatLong!
+!ScanFrequency!ScanFrequency!
+!HealthCheckFrequency!HealthCheckFrequency!
+!HealthCheckRetry!HealthCheckRetry!
+!TimeToLive!TimeToLive!
+!Luck!Luck!
+!Mood!Mood!
+!Priority!Priority!
+!ReturnReceipt!ReturnReceipt!
+!MaxSendAttempts!MaxSendAttempts!
+!LoadDropDevice!LoadDropDevice!
+!PrimaryMcc!PrimaryMcc!
+!SecondaryMcc!SecondaryMcc!
+!TertiaryMcc!TertiaryMcc!
+!TestPointNumber!TestPointNumber!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8 CAP IOB DSC_12073!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3507!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KUNA 12K OOB DSC_12080!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106541!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KUNA 12K IOB DSC_12081!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106976!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KUNA CB_19417!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!3460!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2575!1140!1136!1137!1138!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KUNA 12K LN DSC_19829!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204218!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KUNA 12K TB DSC_26118!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3495!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CORDOBA 12K OOB DSC_26120!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3497!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CORDOBA 12K IOB DSC_26121!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3498!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CORDOBA CB_26123!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!3467!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2576!1145!1141!1142!1143!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CORDOBA 12K LN DSC_26124!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3499!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CORDOBA 12K TB DSC_26126!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3496!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.COUNTERFEIT 12 OOB DSC_30013!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3500!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.COUNTERFEIT 12 IOB DSC_31974!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3650!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.COUNTERFEIT 12 BK DSC_31976!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3505!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.COUNTERFEIT 12 TB DSC_31977!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!3506!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MARTIAN 12K OB DSC_33621!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!26392!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MARTIAN CB_33623!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!280555!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!107573!107574!107569!107570!107571!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MARTIAN 12K LN DSC_33698!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!26393!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MARTIAN 12K TB DSC_33762!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!26394!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.OOB SEC A-B DISC_34669!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204199!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.IOB SEC A-B DISC_34670!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204201!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.OOB SEC B-C DISC_34671!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!238999!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.IOB SEC B-C DISC_34672!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239000!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.10 CAPS CB_36392!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!191017!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.11 CAPS CB_36393!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!191026!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV BUS PARA I DISC_38717!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134059!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK E BK DSC_38718!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106540!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KRONA IOB DISC_38719!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204306!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KRONA CB_38720!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133376!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2563!112936!112932!112933!112934!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KRONA LINE DISC_38721!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204307!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8W BK 12 S.OB DSC_38722!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134073!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK LS CB_38723!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190352!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8W BK 12 POS DSC_38725!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134052!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.YEN 12KV IOB DISC_38726!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134055!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.YEN CB_38727!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133369!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2562!112931!112927!112928!112929!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV C PAR CB_38728!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!
+	}
+	{
+	!ComponentAlias!Switch_Position!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133334!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!112906!112907!112908!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FORINT IOB DISC_38729!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108133!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK 12 E IOB DSC_38730!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106539!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.YEN 12KV LINE DISC_38731!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134056!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DIME CB_38732!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133397!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2566!112951!112947!112948!112949!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FARTHING IOB DISC_38733!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204173!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FARTHING LINE DISC_38734!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204177!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DUCAT CB_38735!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133414!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2567!112962!112958!112959!112960!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DUCAT IOB DISC_38736!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204188!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FRANC 12 IOB DISC_38737!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147538!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.B SECT B.T. 12KV CB_38738!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!133404!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FORINT CB_38739!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190395!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2572!124834!124830!124831!124832!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.PENCE LINE DISC_38740!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204248!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DIME LINE DISC_38741!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239003!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CENTAVO IOB DISC_38742!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204226!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CENTAVO CB_38743!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133390!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2565!112946!112942!112943!112944!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CENTAVO LINE DISC_38744!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204229!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.PENCE CB_38745!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133383!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2564!112941!112937!112938!112939!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.PENCE IOB DISC_38746!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204245!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DUCAT LINE DISC_38747!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204192!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TOLAR 12 LINE DSC_38749!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147540!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RAND 12KV IOB DISC_38750!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134061!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RAND CB_38751!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133362!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2561!112926!112922!112923!112924!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RAND 12KV LINE DISC_38752!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134062!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KWACHA 12 LINE DISC_38754!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147532!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RUBLE 12K LINE DISC_38756!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134066!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5BK 12K E ISO DISC_38759!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134076!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5BK 12K W ISO DISC_38760!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134075!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FARTHING CB_38764!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133421!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2568!112967!112963!112964!112965!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DRACHMA CB_38765!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190409!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2574!124844!124840!124841!124842!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DRACHMA IOB DISC_38766!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108229!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DRACHMA LINE DISC_38767!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108230!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.GUILDER IOB DISC_38768!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108233!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.GUILDER CB_38769!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190402!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2573!124839!124835!124836!124837!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.GUILDER LINE DISC_38770!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108234!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8 BK LS CB_38771!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147518!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KWACHA 12 IOB DISC_38772!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147534!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TOLAR 12 IOB DSC_38773!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147542!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FRANC CB_38774!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!147490!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2559!115266!115262!115263!115264!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.B SECT B.T. TB DISC_38775!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!238998!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FRANC 12 LINE DISC_38776!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147536!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RUBLE 12K IOB DISC_38777!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134065!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RUBLE CB_38778!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133355!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2560!112921!112917!112918!112919!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FORINT LINE DISC_38779!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108226!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KWACHA CB_38780!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!147497!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2558!115271!115267!115268!115269!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DIME OOB DISC_38781!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239001!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.4 CAP 12K OB DISC_38782!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134068!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RUBLE 12K OOB DISC_38783!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134064!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FRANC 12 0OB DISC_38784!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147535!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KWACHA 12 OOB DISC_38785!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147531!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.YEN 12KV OOB DISC_38786!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134054!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SCHILLING TB DISC_38787!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239007!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK E 12 OOB DSC_38788!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106538!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.LIRE LINE DISC_38789!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204162!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CENTAVO OOB DISC_38790!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204222!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV BUS PARA O DISC_38791!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134058!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.PENCE OOB DISC_38792!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204241!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KRONA OOB DISC_38793!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204305!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.EURO 12KV TB DSC_38794!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!124959!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5 BK TB DISC_38795!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204154!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TOLAR 12 OOB DSC_38796!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147539!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FORINT OOB DISC_38797!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108132!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.LIRE OOB DISC_38798!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204157!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV A PAR OOB DSC_38799!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108130!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5 BK OOB DISC_38800!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204143!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SCHILLING OOB DISC_38801!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239004!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FARTHING OOB DISC_38802!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204170!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DUCAT OOB DISC_38803!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204184!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RAND 12KV OOB DISC_38804!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134060!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8W BK 12 OOB DSC_38806!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134051!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DRACHMA OOB DISC_38807!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108228!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.GUILDER OOB DISC_38808!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108232!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 CAP 12K OOB DSC_38809!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106545!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DIME IOB DISC_38810!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239002!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 CAP IOB DSC_38811!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!18110!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.2 CAP 12K OB DISC_38812!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134079!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.B SECT B.T. OOB DISC_38813!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204203!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SCHILLING IOB DISC_38814!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239005!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TOLAR 12 TB DSC_38815!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147541!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RAND 12KV TB DISC_38816!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134063!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV A PAR CB_38817!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!
+	}
+	{
+	!ComponentAlias!Switch_Position!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190374!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!124856!124857!124858!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV A PAR IOB DSC_38818!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108131!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.EURO CB_38819!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!124949!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2571!107680!107676!107677!107678!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.EURO 12KV IOB DSC_38820!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!124957!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.RUBLE 12K TB DISC_38821!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134067!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5 BK LS CB_38822!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!133289!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5 BK IOB DISC_38823!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204147!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SCHILLING CB_38824!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133435!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2570!112977!112973!112974!112975!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.SCHILLING LINE DISC_38825!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239006!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.LIRE IOB DISC_38826!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204159!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.LIRE CB_38827!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!133428!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!2569!112972!112968!112969!112970!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.LIRE TB DISC_38828!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204166!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.EURO 12KV OOB DSC_38829!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!124956!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.EURO 12KV LN DSC_38830!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!124958!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.CENTAVO TB DISC_38831!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204233!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FARTHING TB DISC_38832!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204181!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.5 BK BK DISC_38833!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204151!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FRANC 12 TB DISC_38834!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147537!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.B SECT B.T. IOB DISC_38835!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204207!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DIME TB DISC_38836!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!239008!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DUCAT TB DISC_38837!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204195!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.PENCE TB DISC_38838!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204251!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK 12 E TB DSC_38839!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!106542!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.DRACHMA TB DISC_38840!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108231!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KRONA TB DISC_38841!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!204315!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.8W BK 12 TB DSC_38842!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134053!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.YEN 12KV TB DISC_38843!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!134057!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FORINT TB DISC_38844!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108227!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.B SECT B.T. POS DISC_38845!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!238997!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.GUILDER TB DISC_38846!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!108235!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.KWACHA 12 TB DISC_38847!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!147533!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.121_40097!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209295!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.9 BK 33KV N CB_40098!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190937!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.123_40099!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209296!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.221_40100!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209298!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.9 BK 33KV S CB_40101!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190938!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.323_40105!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209299!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.131_40106!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209300!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.PANTANI CB_40107!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190868!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!64847!64848!64843!64844!64845!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.133_40108!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209301!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.231_40109!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209303!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TIE NO.3 33KV CB_40110!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190869!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.233_40111!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209304!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.331_40112!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209305!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.FROOME CB_40113!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190892!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!200094!200095!200090!200091!200092!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.333_40114!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209306!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.141_40115!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209307!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.10 BK 33KV N CB_40116!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190977!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.143_40117!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209308!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.241_40118!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209310!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TIE NO.4 33KV CB_40119!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!190980!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.243_40120!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209311!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.341_40121!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209312!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.LEMOND CB_40122!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!190908!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!64855!64856!64851!64852!64853!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.343_40123!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209313!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.10 CAP 33KV DSC_40124!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209314!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.11 CAP 33KV DSC_40125!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!209317!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.ROVER 12K OB DSC_41726!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4401!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.ROVER CB_41727!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!43517!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!222990!207906!207902!207903!207904!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.ROVER 12K LN DSC_41728!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4402!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.ROVER 12K TB DSC_41729!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4403!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.INVADER 12K OB DSC_41730!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4404!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.INVADER CB_41731!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!43522!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!222991!207911!207907!207908!207909!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.INVADER 12K LN DSC_41732!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4405!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.INVADER 12K TB DSC_41733!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4406!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 BK 12K OB DSC_41734!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4410!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 BK LS CB_41735!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!43487!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 BK 12K BK DSC_41736!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4411!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 BK 12K TB DSC_41737!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4412!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV OB SEC AB DSC_41738!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4415!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV B.T. OB DSC_41739!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4407!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV B.T. LN DSC_41740!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4408!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.B.T. 12KV CB_41741!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!43527!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV B.T. TB DSC_41742!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4409!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.12KV OB SEC BC DSC_41743!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4416!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.HUBBLE 12K OB DSC_41744!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13524!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.HUBBLE CB_41745!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!283243!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!222992!222988!222984!222985!222986!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.HUBBLE 12K LN DSC_41746!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13525!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.HUBBLE 12K TB DSC_41747!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13526!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK OB DSC_41748!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13532!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK LS CB_41749!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!283202!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK BK DSC_41750!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13531!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK TB DSC_41751!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13530!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 CAP 12K OB DSC_41752!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4419!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 CAP FUSE DSC_41753!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4420!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 CAP 12K OB DSC_41755!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13536!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 CAP FUSE DSC_41756!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13529!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.6 BK 12K 1SO DSC_41758!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!4413!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.NO.7 BK 12K ISO DSC_41759!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!13538!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_DEVERS JR SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.BITCOIN 12K OOB DSC_43471!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!23307!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.BITCOIN 12K IOB DSC_43472!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!23306!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.BITCOIN CB_43473!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!287114!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!218474!218473!218469!218470!218471!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.BITCOIN 12K LN DSC_43474!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!23305!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.BITCOIN 12K TB DSC_43475!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!23304!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.COUNTERFEIT CB_43476!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!19130!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!6477!6476!6472!6473!6474!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.TOLAR CB_43477!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!278520!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!221452!221451!221447!221448!221449!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MONEY 12K OOB DISC_43478!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12157!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MONEY 12K IOB DISC_43479!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12158!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MONEY CB_43480!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!400!401!402!403!404!
+	}
+	{
+	!ComponentAlias!Switch_Position!POWER_P!POWER_Q!CURRENT A!CURRENT B!CURRENT C!
+	}
+	{
+	!PhaseCode!ABC!ABC!ABC!A!B!C!
+	}
+	{
+	!Attachment!NULL!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!LOW_SIDE!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControllerSide!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AssociationDirection!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!POWER_P!POWER_Q!CURRENT!CURRENT!CURRENT!
+	}
+	{
+	!VendorCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StringValue!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!StatusPointNumber!278513!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!AnalogPointNumber!NULL!221446!221445!221441!221442!221443!
+	}
+	{
+	!AccumPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+	{
+	!CmePointNumber!NULL!NULL!NULL!NULL!NULL!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MONEY 12K LINE DISC_43481!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12159!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.MONEY 12K TB DISC_43482!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12160!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.OOB SEC D-C  DISC_43483!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12178!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.IOB SEC D-C  DISC_43484!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12177!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.D SECT B.T. OOB DISC_43485!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12180!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.D SECT B.T. IOB DISC_43486!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12181!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.D SECT B.T. POS DISC_43487!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12182!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.D SECT B.T. 12KV CB_43488!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!278527!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO SAS!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.D SECT B.T. TB DISC_43489!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12183!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.OOB SEC A-D  DISC_43490!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12179!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND
+INPUTMODE CHECK-ACCEPT, FREE
+VBEGIN DevXref_Devices, INSERT
+!AssetID!DMS.IOB SEC A-D  DISC_43491!
+!GroupName!EMS!
+!Description!NULL!
+!SerialNumber!NULL!
+!Device_RDF_ID!NULL!
+!CRAS_UAP_NodeType!NULL!
+!VendorTypeName!SWITCH!
+VREPBEGIN
+	FORMAT GROUP
+	{
+	!SetOrder!1!
+	}
+	{
+	!ComponentAlias!Switch_Position!
+	}
+	{
+	!PhaseCode!ABC!
+	}
+	{
+	!Attachment!NULL!
+	}
+	{
+	!Propagate_Non_Point_Value!NULL!
+	}
+	{
+	!Real_Initial_Value!NULL!
+	}
+	{
+	!Integer_Initial_Value!NULL!
+	}
+	{
+	!Component_RDF_ID!NULL!
+	}
+	{
+	!ControllerSide!NULL!
+	}
+	{
+	!ControlAttributeName!NULL!
+	}
+	{
+	!OverrideTabNumber!NULL!
+	}
+	{
+	!OverrideTabRow!NULL!
+	}
+	{
+	!OverrideTabColumn!NULL!
+	}
+	{
+	!AssociationDirection!NULL!
+	}
+	{
+	!ComponentTypeName!SW_POS!
+	}
+	{
+	!VendorCompTypeName!NULL!
+	}
+	{
+	!StringValue!NULL!
+	}
+	{
+	!SubDeviceAssetID!NULL!
+	}
+	{
+	!DeviceCompTypeName!NULL!
+	}
+	{
+	!StatusPointNumber!12176!
+	}
+	{
+	!AnalogPointNumber!NULL!
+	}
+	{
+	!AccumPointNumber!NULL!
+	}
+	{
+	!RaiseLwPointNumber!NULL!
+	}
+	{
+	!CmePointNumber!NULL!
+	}
+VREPEND
+!StationNameRef!Z_SANTIAGO!
+!AccessZone!Z_EMS!
+!AccessArea!Z_EMS!
+!GroupNamePrimary!NULL!
+!GroupNameSecondary!NULL!
+!AORName!Z_EMS!
+!DCT_Point!NULL!
+!ParentDevice!NULL!
+!ChildDeviceModelType!NULL!
+!DeviceName!NULL!
+!StructureName!NULL!
+!LanAddress!NULL!
+!WanAddress!NULL!
+!OmsStructureNumber!NULL!
+!OmsLineDeviceNumber!NULL!
+!DcwId!NULL!
+!DeviceAttribute!NULL!
+!LatLong!NULL!
+!ScanFrequency!NULL!
+!HealthCheckFrequency!NULL!
+!HealthCheckRetry!NULL!
+!TimeToLive!NULL!
+!Luck!NULL!
+!Mood!NULL!
+!Priority!NULL!
+!ReturnReceipt!NULL!
+!MaxSendAttempts!NULL!
+!LoadDropDevice!NULL!
+!PrimaryMcc!NULL!
+!SecondaryMcc!NULL!
+!TertiaryMcc!NULL!
+!TestPointNumber!NULL!
+VEND

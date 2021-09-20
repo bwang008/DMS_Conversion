@@ -1,4 +1,2 @@
 DeviceName,SwitchGroupName,PhaseCode,ConnectedNode1,ConnectedNode2,ConnectedNode3,AlarmEnabled,SuppressActAlm,SuppressHisAlm,OptCont,OptLoadTran,BreakpointSwitch,AutoProtectionSwitch,SwitchTypeName,Ganged,NormalState,OpenState,CloseState,OtherState,NormalStateA,NormalStateB,NormalStateC,SubstationName,FeederName,AORRefName,VoltageLimitName
-NO.2 CAPS SW:2600,DMS,ABC,en_3308600,en_3308600_SH,NULL,N,Y,Y,N,Y,N,N,DISC_12.0_EMS,NULL,Closed,Open,Closed,NULL,NULL,NULL,NULL,YORBA_LINDA,NULL,All,NULL
-NO.3 CAPS SW:2601,DMS,ABC,en_3308601,en_3308601_SH,NULL,N,Y,Y,N,Y,N,N,DISC_12.0_EMS,NULL,Closed,Open,Closed,NULL,NULL,NULL,NULL,YORBA_LINDA,NULL,All,NULL
-NO.4 CAPS SW:2602,DMS,ABC,en_3308602,en_3308602_SH,NULL,N,Y,Y,N,Y,N,N,DISC_12.0_EMS,NULL,Closed,Open,Closed,NULL,NULL,NULL,NULL,YORBA_LINDA,NULL,All,NULL
+NO.3 CAPS SW_3118,EMS,ABC,en_3465601,en_3465601_SH,NULL,N,Y,Y,N,Y,N,N,DISC_12.0_EMS,NULL,,Open,Closed,NULL,NULL,NULL,NULL,,NULL,All,NULL
