@@ -30,6 +30,7 @@ PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,Re
 436,UNIVERSITY,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8817,40
 439,CHIP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8805,40
 440,BORREGO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5887,40
+442,SANTIAGO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5088,40
 443,CROWN,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5818,40
 481,MIRA_LOMA,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5069,30
 524,HASKELL,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5594,41

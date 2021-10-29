@@ -1,7 +1,0 @@
-Check against DMS and verify which points have NOT been moved yet into the system. These objects will most likely need to be added into the DMS system.
-
-Check extract against individual extract of orange county points and verify which points are NOT in first extract. Point requests may need to be created for the gaps.
-
-Of the gaps, if any exist, double check against EMS/DMS that the point does not already exist as a request under another object without the 'DMS' tag on the object name.
-
-Assign data sets to the points which have no data sets in the original EMS pciccp extract. Updates will need to be pushed out for these. 
