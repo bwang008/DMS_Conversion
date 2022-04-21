@@ -1,26 +1,75 @@
-Compressing Lines
- 2.49 
-Entering switch
- 45.4 
-Entering shunt
- 12.27 
-Entering series
- 6.33 
-Entering bus
- 7.08 
-Entering transformer
-Parallel Transformer
-Parallel Transformer
-Parallel Transformer
- 10.53 
-Completed all routines
+
+4/19/2022
+
+[] Add routine for DevXrefs for lines
+[] Add remove generation of DevX for CBs with no corresponding psa_load
+[] 
 
 
 
 
 
+-------------
 
-Changing the switch name to SCADA TP
-Entering switch build routine
-Time: 72.16602
+
+
+-No control point or switch TP in shunt, causing backfill of values from the copy-paste. Possibly time to rewrite the entire routine to avoid this copy-paste issue and directly write all values.
+
+Rewrite the routine so the directional tags don't matter anymore. Why do we need them still? Every transformer should have devxref, every srd should have devxref. 
+
+
+
+phase percent add IA/IC condition - I think better solution is to use commenttext3. 
+check data gaps between dbcheck and err file on phase percent - For these records, try to create the phase percent record manually for the single phase, and determine if the error file disappears.
+
+examine the hits thanh said recs are not being created for devices: . Line 1087 1495, 1582 to just name a few - Looks like most are issues w/ the point name.
+
+double check the duplicates emsdbcheck queries, they're not flagging need to delete devices and duplicate tp points - ?
+
+-Standardizing Names for point values - Points which contain AMPs, if the phase is already specified, can we modify these to remove the IB AMPS/ IB CURRENT and simply use IB? 
+
+
+Scada Station Filters
+Bucket 1 - Exclusively B-bank substation points (No bus w/ > 115kv)
+Bucket 2 - Every other scada station , but remove the points > 115kv
+Bucket 3 - Non-scada stations such as DIST LOAD SHED, DMS NSP, etc... That are not actual physical stations, but still have scada station entries. 
+
+-----------
+
+SCADA 
+
+Ben Actions:
+DONE - Change grouping for measurement for parallel SRD to transformer
+
+DONE(Appears like latest data doesn't have these points or device) - Devers 4A transformer (SCADA MODEL) is being pulled by conversion query. Revisit query to exclude the Transmission points.
+
+DONE - Change to/from CSI to just simply CSI 
+
+DONE - Change shunt code to modify switch status point to come in under switch vendor group.
+
+DONE - Current for shunts need to include 3 phases, also revisit voltages for shunts and mvar
+(Step thru code, use findpoints on shunts) bldShuntDevX
+
+
+
+PENDING - loop fed stations feeder amps are not coming in the same as non-loop feeder definitions i.e. CAMDEN ALLOY
+(Convert loop station combine w/ edinger item)
+
+Edinger 12kv/4kv should have points brought in, but the 12kv is not showing the SCADA points, verify that the devxrefs were defined correctly.
+(Batch out edinger and convert) 
+(This is going to require a new routine to be created and added in, more planning and testing needed so downstream current will not be showing.
+
+
+DONE - Last Item - Eliminate the duplicates that get created from generating areas with no particular device i.e. copy series. 
+Rewrite the routine to build the non-display points - 
+
+DONE - Rewrite the non-scada routine to write one row at a time, and write each completed row to a file for space constraints
+change the assetlabel to the point name.
+
+
+
+
+Venkat/Vaidy Actions:
+Bring up including the component type name or alias into the pop-up display for a point to provide the user with more information to ID the point, also include the source point number somewhere.
+Update poke point display for 'Device' to represent a more meaningful name instead of EMS_XXXXX
 
