@@ -1,0 +1,2 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+123,CAMDEN,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5826,21,

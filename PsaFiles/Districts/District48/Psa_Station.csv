@@ -1,0 +1,7 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+429,ONEILL,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8810,48,
+438,CHIQUITA,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5811,48,
+444,LIMESTONE,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8804,48,
+445,VIEJO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5083,48,
+1010,VIEJO_TAP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,NULL,48,
+1047,JUNCTION,No,No,NULL,Inside,Yes,NULL,Yes,5622,48,

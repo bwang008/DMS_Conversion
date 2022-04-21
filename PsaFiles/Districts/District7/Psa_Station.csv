@@ -1,0 +1,8 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+145,WESTHILL,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5278,7,
+146,CHEVGEN,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5283,7,
+147,LOSULFUR,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5261,7,
+148,CHEVMAIN,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8063,7,
+194,CHEVCENTRAL,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5295,7,
+314,DEL_MAR,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5293,7,
+1012,CHEVMAIN_TAP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,NULL,7,

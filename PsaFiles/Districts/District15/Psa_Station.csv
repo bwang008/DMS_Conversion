@@ -1,0 +1,6 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+278,ELDORADO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5090,15,
+279,PISGAH,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5065,15,
+282,CIMA,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5043,15,
+916,PRIMM,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8372,15,
+931,SILVER_STATE,Yes,Yes,NULL,Inside,Yes,NULL,Yes,0132,15,

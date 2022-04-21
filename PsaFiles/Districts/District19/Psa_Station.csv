@@ -1,0 +1,6 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+616,ARROYO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5158,19,
+617,GOULD,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5015,19,
+618,LA_CANADA,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5130,19,
+619,GOULD_TAP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,NULL,19,
+1366,FAIR_OAKS,No,Yes,NULL,Inside,Yes,NULL,Yes,5162,19,

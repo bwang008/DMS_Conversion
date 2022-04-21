@@ -1,0 +1,7 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+336,INDIAN_WELLS,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8345,31,
+343,TAMARISK,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8099,31,
+344,SANTA_ROSA,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8036,31,
+351,CAPWIND,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8302,31,
+353,CONCHO,Yes,Yes,NULL,Inside,Yes,NULL,Yes,8017,31,
+856,MIRAGE_TAP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,NULL,31,

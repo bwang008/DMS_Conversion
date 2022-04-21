@@ -1,0 +1,2 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+785,GOODRICH,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5010,68,

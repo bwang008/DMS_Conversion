@@ -1,0 +1,6 @@
+PsaStationNumber,PsaStationName,PnaStation,PssStation,LogicalDisplayReference,RegionOfInterest,ScheduleDataFlag,ExModelRetentionFlag,DmsTransformFlag,AssetLabel,DistrictNumberRef,
+716,WARNE_TAP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,NULL,5,
+717,PEARBLOSSOM,Yes,Yes,NULL,Inside,Yes,NULL,Yes,4004,5,
+718,EDMONSTON,Yes,Yes,NULL,Inside,Yes,NULL,Yes,4002,5,
+719,WARNE,Yes,Yes,NULL,Inside,Yes,NULL,Yes,5038,5,
+941,PEARBLOS_TAP,Yes,Yes,NULL,Inside,Yes,NULL,Yes,NULL,5,
