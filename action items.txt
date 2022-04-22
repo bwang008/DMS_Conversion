@@ -1,11 +1,18 @@
 
-4/19/2022
+4/22/2022
+======
+[] Create logic for WDAT devices to have DevX record
+[] Meet w/ Penglin to assign unique mnemonic for each CMS postage stamp field
 
+
+4/19/2022
+========
 [] Add routine for DevXrefs for lines
 [] Add remove generation of DevX for CBs with no corresponding psa_load
-[] 
-
-
+[] Remove duplicate LPID from por export file 
+	-Create shunt search for switch, if SP exists, skip.
+	-Create search routine before writing DISP devx, if point exists in model export, skip.
+	(This can probably be done in linux for faster processing time. Just run two files separately, then join them)
 
 
 
